@@ -2,7 +2,7 @@
 
 This is my (John L. Preston's) entry for the [Moneylab NFT Essay prize](https://networkcultures.org/moneylab/2022/01/21/moneylab-nft-essay-prize/).
 
-The question to be addressed is: "Are NFTs the key to a generation's empowerment, or a capitalist trap?"
+The question to be addressed is: **"Are NFTs the key to a generation's empowerment, or a capitalist trap?"**
 
 This essay has been developed using Git as a narrative medium. This repository contains two text files: `nft-good.md` argues that "NFTs the key to a generation's empowerment" whereas `nft-bad.md` argues that "NFTs are a capitalist trap". Additionally the Git commit messages provide tangential discussion on these issues along with an artist's commentary on the work itself and the development process.
 

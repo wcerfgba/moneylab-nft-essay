@@ -11,7 +11,7 @@ this provides some tamper-resistance to the datastructure,
 and makes it append-only:
 new data can only be added on to the end of the chain.
 all cryptocurrencies use blockchains,
-and the crypto hypesphere would make you think blockchain is a super innovative technology (http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Slide3.jpg),
+and the crypto hypesphere could make you think blockchain is a super innovative technology (http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Slide3.jpg),
 but really blockchain is just a datastructure,
 and they've been around for ages (https://www.cognitomedia.com/sites/default/files/inline-images/blockchain%20ai%20media.PNG).
 case in point, git also uses a blockchain (http://i.stack.imgur.com/I5MYp.png),
@@ -20,15 +20,20 @@ and git was created in 2005,
 however, blockchain alone isn't enough to make a cryptocurrency.
 you also need consensus.
 because many people can try and append to the chain at the same time,
-the system needs a way for everyone to agree on the order in which to add the new blocks.
-consensus is a long-standing problem in computer science,
+the system needs a way for everyone to agree on the order in which to add new blocks.
+distributed consensus is a long-standing problem in computer science:
 people have been trying to solve distributed consensus for decades at this point,
 and there are many algorithms for it,
 like paxos and raft (https://raft.github.io/),
-but these protocols rely on (temporarily) giving one of the nodes more authority than the others.
+but many of these protocols rely on (temporarily) giving one of the nodes more authority than the others.
+instead cryptocurrencies must rely on 'permissionless' distributed consensus algorithms,
+such as proof-of work,
+and proof-of-stake.
+ironically the 'consensus' algorithms used by cryptocurrencies are more accurately described as 'competition'.
+proof-of-work is used by bitcoin,
+and it relies on computers racing to find a solution to a computationally-intensive problem (https://i.ytimg.com/vi/BfCuqk4szGw/maxresdefault.jpg).
+this requires a lot of hardware and electricity (https://i.stack.imgur.com/lUcNE.jpg),
+and now bitcoin uses more electricity per year than some countries (https://specials-images.forbesimg.com/imageserve/60926a0a299518033fa65df5/960x0.jpg).
+proof-of-stake relies on users bidding for the privilege to validate transactions (https://www.gamblingcasinocruise.com/wp-content/uploads/2010/08/blackjack-table.jpg),
+which centralises control of the network with the wealthiest users (https://c1.staticflickr.com/5/4136/4788168631_854f39f121_b.jpg).
 
-
-
-
-and this is where proof-of-work and proof-of-stake come in (https://img-9gag-fun.9cache.com/photo/amPmdVX_460s.jpg).
-these are both permissionless consensus algorithms,
