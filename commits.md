@@ -36,4 +36,3 @@ this requires a lot of hardware and electricity (https://i.stack.imgur.com/lUcNE
 and now bitcoin uses more electricity per year than some countries (https://specials-images.forbesimg.com/imageserve/60926a0a299518033fa65df5/960x0.jpg).
 proof-of-stake relies on users bidding for the privilege to validate transactions (https://www.gamblingcasinocruise.com/wp-content/uploads/2010/08/blackjack-table.jpg),
 which centralises control of the network with the wealthiest users (https://c1.staticflickr.com/5/4136/4788168631_854f39f121_b.jpg).
-

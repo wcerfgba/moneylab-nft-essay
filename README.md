@@ -1,6 +1,6 @@
-# Moneylab NFT Essay Prize Entry
+# MoneyLab NFT Essay Prize Entry
 
-This is my (John L. Preston's) entry for the [Moneylab NFT Essay prize](https://networkcultures.org/moneylab/2022/01/21/moneylab-nft-essay-prize/).
+This is my (John L. Preston's) entry for the [MoneyLab NFT Essay prize](https://networkcultures.org/moneylab/2022/01/21/moneylab-nft-essay-prize/).
 
 The question to be addressed is: **"Are NFTs the key to a generation's empowerment, or a capitalist trap?"**
 
