@@ -29,7 +29,8 @@ but many of these protocols rely on (temporarily) giving one of the nodes more a
 instead cryptocurrencies must rely on 'permissionless' distributed consensus algorithms,
 such as proof-of work,
 and proof-of-stake.
-ironically the 'consensus' algorithms used by cryptocurrencies are more accurately described as 'competition'.
+ironically the 'consensus' algorithms used by cryptocurrencies...
+... are more accurately described as 'competition'.
 proof-of-work is used by bitcoin,
 and it relies on computers racing to find a solution to a computationally-intensive problem (https://i.ytimg.com/vi/BfCuqk4szGw/maxresdefault.jpg).
 this requires a lot of hardware and electricity (https://i.stack.imgur.com/lUcNE.jpg),
