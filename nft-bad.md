@@ -6,3 +6,4 @@ and typical economic models of scarcity don't (need to) apply to information (ht
 most schools of economic thought (https://mronline.org/wp-content/uploads/2019/05/Table-1-Schools-of-Economic-Thought.jpg)...
 ... assume that most goods are scarce:
 that is, that the demand often exceeds supply,
+and that there are costs involved in the production of goods,
