@@ -39,3 +39,4 @@ to become active participants in the artistic process.
 These tokens, and the ownership of them,
 is then automatically embedded in the artistic process,
 which provides a provenance chain for ideas,
+and allows automatic crediting of remixed works,
