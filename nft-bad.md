@@ -20,3 +20,4 @@ and copying of software (https://cdn.artandlogic.com/wp-content/uploads/2013/05/
 property rights alone aren't enough for capitalism function,
 it also needs scarcity,
 because if anyone can access or duplicate a good at minimal cost,
+then there is no need for trade or markets.
