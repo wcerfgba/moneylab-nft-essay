@@ -26,3 +26,4 @@ like a pre-sale.
 But unlike a pre-sale,
 access to the art,
 or rights to reuse it,
+or additional benefits like access to exclusive communities,
