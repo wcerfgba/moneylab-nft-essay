@@ -23,3 +23,4 @@ because if anyone can access or duplicate a good at minimal cost,
 then there is no need for trade or markets.
 funding for artistic endeavours is a long-standing problem in society,
 and many methods, both public and private, have existed over the years.
+but with the extension of copyright terms (http://www.tomwbell.com/writings/(C)_Term.gif),
