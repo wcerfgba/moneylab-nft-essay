@@ -9,3 +9,4 @@ that is, that the demand often exceeds supply,
 and that there are costs involved in the production of goods,
 such as raw materials,
 and time.
+but information isn't like cars or bread or people.

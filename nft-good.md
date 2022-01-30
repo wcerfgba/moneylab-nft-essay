@@ -9,3 +9,4 @@ and because the true value of artworks are not known,
 due to externalities like piracy,
 and the lack of a true market system for artworks.
 NFTs are revolutionary,
+because they provide a common market for trading digital goods,
