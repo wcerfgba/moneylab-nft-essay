@@ -44,3 +44,4 @@ which can then be used to power automatic royalties.
 Tokens can also be used to track previous contributions,
 or affiliations,
 creating communities of artistic practice...
+... with machine-verifiable membership.
