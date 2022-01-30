@@ -35,3 +35,4 @@ With smart contracts, these machine-readable receipts are even more powerful,
 and allow artists to develop new, interactive practices for co-production:
 token holders can participate in networked experiences (https://cdn-images-1.medium.com/max/2000/1*f3ivH0qvJssf2v-qd8YLuA.png),
 collaborating with other token holders and the artist,
+to become active participants in the artistic process.

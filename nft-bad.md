@@ -35,3 +35,4 @@ art and artistic processes are being forced to fit into preconceived notions of 
 in place of the development of new systems which reward artists for their contributions to society.
 nfts are just the latest attempt at commodification,
 riding on the coat-tails of the cryptocurrency bubble.
+even if nfts are theoretically capable of providing value to artists,
