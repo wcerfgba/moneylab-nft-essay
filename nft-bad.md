@@ -38,3 +38,4 @@ riding on the coat-tails of the cryptocurrency bubble.
 even if nfts are theoretically capable of providing value to artists,
 the market for nfts has quickly become entirely speculative,
 and this makes nfts currently useless for artists,
+because traders are only interested in the mimetic value of artworks,
