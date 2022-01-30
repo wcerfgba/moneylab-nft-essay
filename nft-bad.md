@@ -13,3 +13,4 @@ but information isn't like cars or bread or people.
 because it is intangible, it can be replicated without limit,
 and at very little cost, depending on the medium.
 despite this, or perhaps as a result of this,
+institutions to inhibit the free replication of information have been around for centuries:
