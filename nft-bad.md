@@ -27,26 +27,27 @@ but with the extension of copyright terms (http://www.tomwbell.com/writings/(C)_
 and the centralisation of ownership (https://12bytes.org/wp-content/uploads/Media-Ownership-2011.png),
 the interests of the public, and of future artists,
 are being increasingly limited,
-in favour of short-term profit gain for a minority of companies.
-
-rather than creating a valuable public domain of our shared cultural outputs,
+in favour of short-term profit gain...
+... for a minority of companies.
+rather than creating a valuable public domain of our shared cultural heritage,
 art has been commodified, and artists are forced to compete for funding and recognition.
-
-
-
-
-
-
-
-memetics
-
-
-
-
-xxxxxx
-
-
-
-
-
-
+art and artistic processes are being forced to fit into preconceived notions of value,
+in place of the development of new systems which reward artists for their contributions to society.
+nfts are just the latest attempt at commodification,
+riding on the coat-tails of the cryptocurrency bubble.
+even if nfts are theoretically capable of providing value to artists,
+the market for nfts has quickly become entirely speculative,
+and this makes nfts currently useless for artists,
+because traders are only interested in the mimetic value of artworks,
+not their emotional, aesthetic, or critical value.
+the implication is that art is only valuable if other people want it,
+but some of the most important art...
+... is valuable because it contradicts society's values (http://4.bp.blogspot.com/-F6iE2BQ0BfE/UKRPOh46_RI/AAAAAAAAKW8/efyivwjbyHk/s1600/pink-flamingos-pig-portable.jpg).
+artists and artistic communities have spoken out in opposition to nfts (https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/)...
+... and this trend will continue,
+as more artists learn that not only do nfts fail to provide them with a larger audience,
+but that nfts are contradictory to the very nature of art itself.
+we need to focus on the importance of art and artists to our civilisation,
+and continue to examine the relationship between art and capital through a critical lens,
+or we risk the erasure of provocative and important art and artistic practice.
+fin

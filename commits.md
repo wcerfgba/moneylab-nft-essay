@@ -12,7 +12,7 @@ and makes it append-only:
 new data can only be added on to the end of the chain.
 all cryptocurrencies use blockchains,
 and the crypto hypesphere could make you think blockchain is a super innovative technology (http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Slide3.jpg),
-but really blockchain is just a datastructure,
+but really blockchains are just datastructures,
 and they've been around for ages (https://www.cognitomedia.com/sites/default/files/inline-images/blockchain%20ai%20media.PNG).
 case in point, git also uses a blockchain (http://i.stack.imgur.com/I5MYp.png),
 and git was created in 2005,
@@ -43,9 +43,11 @@ cryptocurrency instead replicates these problems...
 it's a classic fail state of techno-utopian thinking,
 discussed more broadly in the work of adam curtis (https://www.imdb.com/title/tt1955162/),
 and more specifically in the work of dan olson (https://www.youtube.com/watch?v=YQ_xWvX1n9g)
-xxxxxx
-
-
-
-
-
+agreement between the crypto and crypto-critical communities is yet to emerge,
+and the public discourse could be viewed as an arena...
+... in which these groups are competing for the final word.
+instead, i think a true consensus can arise,
+if we focus on the needs of our civilisation,
+and prioritise a thorough understanding of the problems we face...
+... above the development of any single solution.
+fin
