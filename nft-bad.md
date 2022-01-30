@@ -10,3 +10,4 @@ and that there are costs involved in the production of goods,
 such as raw materials,
 and time.
 but information isn't like cars or bread or people.
+because it is intangible, it can be replicated without limit,

@@ -10,3 +10,4 @@ due to externalities like piracy,
 and the lack of a true market system for artworks.
 NFTs are revolutionary,
 because they provide a common market for trading digital goods,
+which means anyone can now access the power of the market (http://welkerswikinomics.com/blog/wp-content/uploads/2009/01/market-power-11.jpeg):
