@@ -42,3 +42,4 @@ because traders are only interested in the mimetic value of artworks,
 not their emotional, aesthetic, or critical value.
 the implication is that art is only valuable if other people want it,
 but some of the most important art...
+... is valuable because it contradicts society's values (http://4.bp.blogspot.com/-F6iE2BQ0BfE/UKRPOh46_RI/AAAAAAAAKW8/efyivwjbyHk/s1600/pink-flamingos-pig-portable.jpg).
