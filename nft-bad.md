@@ -27,3 +27,4 @@ but with the extension of copyright terms (http://www.tomwbell.com/writings/(C)_
 and the centralisation of ownership (https://12bytes.org/wp-content/uploads/Media-Ownership-2011.png),
 the interests of the public, and of future artists,
 are being increasingly limited,
+in favour of short-term profit gain...
