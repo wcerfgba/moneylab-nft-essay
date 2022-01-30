@@ -15,3 +15,4 @@ and at very little cost, depending on the medium.
 despite this, or perhaps as a result of this,
 institutions to inhibit the free replication of information have been around for centuries:
 patents have existed since at least 1474 (https://brewminate.com/wp-content/uploads/2018/10/102918-57-History-Copyright-Print-Patent-Invention.png),
+and over the years we have seen campaigns around home taping of music (https://upload.wikimedia.org/wikipedia/de/thumb/a/ae/Home_taping_is_killing_music.jpg/1200px-Home_taping_is_killing_music.jpg),
