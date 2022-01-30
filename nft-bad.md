@@ -14,3 +14,4 @@ because it is intangible, it can be replicated without limit,
 and at very little cost, depending on the medium.
 despite this, or perhaps as a result of this,
 institutions to inhibit the free replication of information have been around for centuries:
+patents have existed since at least 1474 (https://brewminate.com/wp-content/uploads/2018/10/102918-57-History-Copyright-Print-Patent-Invention.png),

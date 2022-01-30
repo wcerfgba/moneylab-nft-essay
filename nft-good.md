@@ -14,3 +14,4 @@ which means anyone can now access the power of the market (http://welkerswikinom
 it's easy for people to mint an NFT and trade it with others (https://petapixel.com/assets/uploads/2021/06/How-to-Mint-an-NFT-The-Photographers-Guide-800x420.jpg),
 and people who purchase NFTs can re-sell them later.
 People have been trading art for a long time (https://i1.wp.com/fieneleunissen.com/wp-content/uploads/2019/02/Portfolio-webpage.jpg?fit=1056%2C672&ssl=1),
+but since the rise of the Internet, a need has emerged...
