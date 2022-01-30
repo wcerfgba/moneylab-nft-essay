@@ -7,3 +7,4 @@ Today, artists are struggling to make ends meet (https://art.ngfiles.com/images/
 because funding is scarce,
 and because the true value of artworks are not known,
 due to externalities like piracy,
+and the lack of a true market system for artworks.
