@@ -19,3 +19,4 @@ but since the rise of the Internet, a need has emerged...
 ... as their counterparts who work in physical media.
 NFTs don't require a blockchain, or a cryptocurrency.
 Really they're just machine-readable receipts.
+These receipts can solve the funding problem faced by digital artists,
