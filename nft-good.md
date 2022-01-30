@@ -31,3 +31,4 @@ can be tied to the NFT,
 and this can then be traded with other people,
 which allows us to elevate art which has long-term social value...
 ... by building a market which tracks the value of art over time (https://socks-studio.com/2015/03/23/light-time-silence-by-keisuke-yamamoto/).
+With smart contracts, these machine-readable receipts are even more powerful,

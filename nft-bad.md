@@ -31,3 +31,4 @@ in favour of short-term profit gain...
 ... for a minority of companies.
 rather than creating a valuable public domain of our shared cultural heritage,
 art has been commodified, and artists are forced to compete for funding and recognition.
+art and artistic processes are being forced to fit into preconceived notions of value,
