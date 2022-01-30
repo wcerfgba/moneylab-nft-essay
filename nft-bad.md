@@ -48,3 +48,4 @@ artists and artistic communities have spoken out in opposition to nfts (https://
 as more artists learn that not only do nfts fail to provide them with a larger audience,
 but that nfts are contradictory to the very nature of art itself.
 we need to focus on the importance of art and artists to our civilisation,
+and continue to examine the relationship between art and capital through a critical lens,
