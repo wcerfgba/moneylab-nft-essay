@@ -18,3 +18,4 @@ patents have existed since at least 1474 (https://brewminate.com/wp-content/uplo
 and over the years we have seen campaigns around home taping of music (https://upload.wikimedia.org/wikipedia/de/thumb/a/ae/Home_taping_is_killing_music.jpg/1200px-Home_taping_is_killing_music.jpg),
 and copying of software (https://cdn.artandlogic.com/wp-content/uploads/2013/05/dont_copy_that_floppy.gif).
 property rights alone aren't enough for capitalism function,
+it also needs scarcity,
