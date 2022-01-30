@@ -28,3 +28,4 @@ and the centralisation of ownership (https://12bytes.org/wp-content/uploads/Medi
 the interests of the public, and of future artists,
 are being increasingly limited,
 in favour of short-term profit gain...
+... for a minority of companies.
