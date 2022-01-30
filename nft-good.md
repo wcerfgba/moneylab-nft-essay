@@ -45,3 +45,4 @@ Tokens can also be used to track previous contributions,
 or affiliations,
 creating communities of artistic practice...
 ... with machine-verifiable membership.
+NFTs are just the next step in the evolution of our economy,
