@@ -5,3 +5,4 @@ because digital media are computer-based,
 and anyone can copy the files and distribute them online.
 Today, artists are struggling to make ends meet (https://art.ngfiles.com/images/1005000/1005372_agentslimnsexy_starving-artist.png?f1566806409),
 because funding is scarce,
+and because the true value of artworks are not known,
