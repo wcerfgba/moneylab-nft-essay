@@ -29,3 +29,4 @@ the interests of the public, and of future artists,
 are being increasingly limited,
 in favour of short-term profit gain...
 ... for a minority of companies.
+rather than creating a valuable public domain of our shared cultural heritage,
