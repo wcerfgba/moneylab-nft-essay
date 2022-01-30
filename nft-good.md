@@ -41,3 +41,4 @@ is then automatically embedded in the artistic process,
 which provides a provenance chain for ideas,
 and allows automatic crediting of remixed works,
 which can then be used to power automatic royalties.
+Tokens can also be used to track previous contributions,
