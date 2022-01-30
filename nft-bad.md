@@ -8,3 +8,4 @@ most schools of economic thought (https://mronline.org/wp-content/uploads/2019/0
 that is, that the demand often exceeds supply,
 and that there are costs involved in the production of goods,
 such as raw materials,
+and time.
