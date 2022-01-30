@@ -49,3 +49,4 @@ as more artists learn that not only do nfts fail to provide them with a larger a
 but that nfts are contradictory to the very nature of art itself.
 we need to focus on the importance of art and artists to our civilisation,
 and continue to examine the relationship between art and capital through a critical lens,
+or we risk the erasure of provocative and important art and artistic practice.
