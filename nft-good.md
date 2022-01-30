@@ -25,3 +25,4 @@ because they allow artists to run fundraisers for their artworks...
 like a pre-sale.
 But unlike a pre-sale,
 access to the art,
+or rights to reuse it,

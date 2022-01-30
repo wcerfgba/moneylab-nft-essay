@@ -25,3 +25,4 @@ funding for artistic endeavours is a long-standing problem in society,
 and many methods, both public and private, have existed over the years.
 but with the extension of copyright terms (http://www.tomwbell.com/writings/(C)_Term.gif),
 and the centralisation of ownership (https://12bytes.org/wp-content/uploads/Media-Ownership-2011.png),
+the interests of the public, and of future artists,
