@@ -24,3 +24,4 @@ because they allow artists to run fundraisers for their artworks...
 ... and then afford access to funders once the artwork is completed,
 like a pre-sale.
 But unlike a pre-sale,
+access to the art,
