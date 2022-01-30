@@ -22,3 +22,4 @@ Really they're just machine-readable receipts.
 These receipts can solve the funding problem faced by digital artists,
 because they allow artists to run fundraisers for their artworks...
 ... and then afford access to funders once the artwork is completed,
+like a pre-sale.
