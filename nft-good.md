@@ -47,3 +47,4 @@ creating communities of artistic practice...
 ... with machine-verifiable membership.
 NFTs are just the next step in the evolution of our economy,
 and of remodelling the relationship between the economy and art.
+We need to focus on the needs of artists and art consumers,
