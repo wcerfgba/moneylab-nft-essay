@@ -40,3 +40,4 @@ the market for nfts has quickly become entirely speculative,
 and this makes nfts currently useless for artists,
 because traders are only interested in the mimetic value of artworks,
 not their emotional, aesthetic, or critical value.
+the implication is that art is only valuable if other people want it,
