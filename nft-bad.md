@@ -34,3 +34,4 @@ art has been commodified, and artists are forced to compete for funding and reco
 art and artistic processes are being forced to fit into preconceived notions of value,
 in place of the development of new systems which reward artists for their contributions to society.
 nfts are just the latest attempt at commodification,
+riding on the coat-tails of the cryptocurrency bubble.
