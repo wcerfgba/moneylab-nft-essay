@@ -21,3 +21,4 @@ property rights alone aren't enough for capitalism function,
 it also needs scarcity,
 because if anyone can access or duplicate a good at minimal cost,
 then there is no need for trade or markets.
+funding for artistic endeavours is a long-standing problem in society,
