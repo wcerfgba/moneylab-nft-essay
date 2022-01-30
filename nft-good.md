@@ -36,3 +36,4 @@ and allow artists to develop new, interactive practices for co-production:
 token holders can participate in networked experiences (https://cdn-images-1.medium.com/max/2000/1*f3ivH0qvJssf2v-qd8YLuA.png),
 collaborating with other token holders and the artist,
 to become active participants in the artistic process.
+These tokens, and the ownership of them,

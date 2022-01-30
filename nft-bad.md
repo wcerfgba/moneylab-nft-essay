@@ -36,3 +36,4 @@ in place of the development of new systems which reward artists for their contri
 nfts are just the latest attempt at commodification,
 riding on the coat-tails of the cryptocurrency bubble.
 even if nfts are theoretically capable of providing value to artists,
+the market for nfts has quickly become entirely speculative,
