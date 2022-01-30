@@ -12,3 +12,4 @@ NFTs are revolutionary,
 because they provide a common market for trading digital goods,
 which means anyone can now access the power of the market (http://welkerswikinomics.com/blog/wp-content/uploads/2009/01/market-power-11.jpeg):
 it's easy for people to mint an NFT and trade it with others (https://petapixel.com/assets/uploads/2021/06/How-to-Mint-an-NFT-The-Photographers-Guide-800x420.jpg),
+and people who purchase NFTs can re-sell them later.
